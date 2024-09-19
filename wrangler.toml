@@ -1,0 +1,8 @@
+name = "example-nt-cl-sentry-crush"
+
+send_metrics = true
+
+compatibility_date = "2024-07-29"
+compatibility_flags = ["nodejs_compat"]
+
+pages_build_output_dir = ".vercel/output/static"
